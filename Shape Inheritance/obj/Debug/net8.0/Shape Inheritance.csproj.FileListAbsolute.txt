@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\bin\Debug\net8.0\Shape Inheritance.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\bin\Debug\net8.0\Shape Inheritance.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\bin\Debug\net8.0\Shape Inheritance.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\bin\Debug\net8.0\Shape Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\bin\Debug\net8.0\Shape Inheritance.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\obj\Debug\net8.0\Shape Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\obj\Debug\net8.0\Shape Inheritance.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\obj\Debug\net8.0\Shape Inheritance.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\obj\Debug\net8.0\Shape Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\obj\Debug\net8.0\Shape Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\obj\Debug\net8.0\refint\Shape Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\obj\Debug\net8.0\Shape Inheritance.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\obj\Debug\net8.0\Shape Inheritance.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Shape Inheritance\obj\Debug\net8.0\ref\Shape Inheritance.dll

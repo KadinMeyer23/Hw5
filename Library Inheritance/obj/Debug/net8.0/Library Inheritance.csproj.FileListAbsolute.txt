@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\bin\Debug\net8.0\Library Inheritance.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\bin\Debug\net8.0\Library Inheritance.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\bin\Debug\net8.0\Library Inheritance.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\bin\Debug\net8.0\Library Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\bin\Debug\net8.0\Library Inheritance.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\obj\Debug\net8.0\Library Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\obj\Debug\net8.0\Library Inheritance.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\obj\Debug\net8.0\Library Inheritance.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\obj\Debug\net8.0\Library Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\obj\Debug\net8.0\Library Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\obj\Debug\net8.0\refint\Library Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\obj\Debug\net8.0\Library Inheritance.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\obj\Debug\net8.0\Library Inheritance.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Library Inheritance\obj\Debug\net8.0\ref\Library Inheritance.dll
