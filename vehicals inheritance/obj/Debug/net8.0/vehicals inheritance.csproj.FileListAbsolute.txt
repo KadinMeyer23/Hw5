@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\bin\Debug\net8.0\vehicals inheritance.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\bin\Debug\net8.0\vehicals inheritance.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\bin\Debug\net8.0\vehicals inheritance.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\bin\Debug\net8.0\vehicals inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\bin\Debug\net8.0\vehicals inheritance.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\obj\Debug\net8.0\vehicals inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\obj\Debug\net8.0\vehicals inheritance.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\obj\Debug\net8.0\vehicals inheritance.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\obj\Debug\net8.0\vehicals inheritance.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\obj\Debug\net8.0\vehicals inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\obj\Debug\net8.0\refint\vehicals inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\obj\Debug\net8.0\vehicals inheritance.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\obj\Debug\net8.0\vehicals inheritance.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\vehicals inheritance\obj\Debug\net8.0\ref\vehicals inheritance.dll
