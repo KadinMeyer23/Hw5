@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Animal Inheritance": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

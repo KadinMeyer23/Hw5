@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\bin\Debug\net8.0\Employees Inheritance.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\bin\Debug\net8.0\Employees Inheritance.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\bin\Debug\net8.0\Employees Inheritance.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\bin\Debug\net8.0\Employees Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\bin\Debug\net8.0\Employees Inheritance.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\obj\Debug\net8.0\Employees Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\obj\Debug\net8.0\Employees Inheritance.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\obj\Debug\net8.0\Employees Inheritance.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\obj\Debug\net8.0\Employees Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\obj\Debug\net8.0\Employees Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\obj\Debug\net8.0\refint\Employees Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\obj\Debug\net8.0\Employees Inheritance.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\obj\Debug\net8.0\Employees Inheritance.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Employees Inheritance\obj\Debug\net8.0\ref\Employees Inheritance.dll

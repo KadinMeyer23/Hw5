@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\bin\Debug\net8.0\Animal Inheritance.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\bin\Debug\net8.0\Animal Inheritance.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\bin\Debug\net8.0\Animal Inheritance.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\bin\Debug\net8.0\Animal Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\bin\Debug\net8.0\Animal Inheritance.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\obj\Debug\net8.0\Animal Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\obj\Debug\net8.0\Animal Inheritance.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\obj\Debug\net8.0\Animal Inheritance.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\obj\Debug\net8.0\Animal Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\obj\Debug\net8.0\Animal Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\obj\Debug\net8.0\refint\Animal Inheritance.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\obj\Debug\net8.0\Animal Inheritance.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\obj\Debug\net8.0\Animal Inheritance.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw5 Assignments\Animal Inheritance\obj\Debug\net8.0\ref\Animal Inheritance.dll
